@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.select_by_visible_text" />
+          <option value="sleep.NoSuchElementExpection" />
+          <option value="sleep.expected_conditions_visibility_of_element_located" />
+          <option value="selenium.webdriver.support.NoSuchElementException" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

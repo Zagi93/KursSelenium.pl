@@ -1,0 +1,9 @@
+1664784871208	geckodriver	INFO	Listening on 127.0.0.1:61837
+1664784874236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "start-maximized" "-no-remote" "-profile" "C:\\Users\\janza\\AppData\\Local\\Temp\\rust_mozprofile1SIMdL"
+1664784874659	Marionette	INFO	Marionette enabled
+1664784874666	Marionette	INFO	Listening on port 61850
+Read port: 61850
+1664784875050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\janza\\AppData\\Local\\Temp\\rust_mozprofile1SIMdL\\search.json.mozlz4", (void 0)))
+[fluent] Missing message in locale pl: private-browsing-shortcut-text-2
+[fluent] Missing message in locale pl: private-browsing-shortcut-text-2
